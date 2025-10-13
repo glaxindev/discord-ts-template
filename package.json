@@ -8,21 +8,21 @@
     "build": "rimraf dist && tsc --project tsconfig.json",
     "dev": "npm run build && npm start"
   },
-  "author": "realglaxin",
+  "author": "Glaxin",
   "license": "MIT",
   "dependencies": {
     "@sapphire/ratelimits": "^2.4.11",
     "chalk": "^4.1.2",
     "discord-hybrid-sharding": "^2.2.6",
-    "discord.js": "^14.19.3",
+    "discord.js": "^14.23.2",
     "dokdo": "^1.1.0",
     "moment-timezone": "^0.5.48",
-    "mongoose": "^8.15.0"
+    "mongoose": "^8.19.1"
   },
   "devDependencies": {
-    "@types/node": "^22.15.18",
+    "@types/node": "^22.18.10",
     "rimraf": "^6.0.1",
     "tslib": "^2.8.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }
