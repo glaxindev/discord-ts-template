@@ -2,6 +2,8 @@
 
 A fully-featured and scalable Discord bot template using **Discord.js v14**, **TypeScript**, **MongoDB**, and **hybrid command support** (slash + prefix). Perfect for kickstarting a modern, production-ready Discord bot.
 
+[![djs-ts-template.png](https://i.postimg.cc/GmMDPrpY/djs-ts-template.png)](https://postimg.cc/xXzqYwMT)
+
 ---
 
 ## 🚀 Features
